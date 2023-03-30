@@ -4,7 +4,7 @@ Master the vision, win the game
 <br>
 To view the project click on:
 
-lol_project.ipynb
+lol_project.ipynb on the box above.
 <br>
 
 On this Projects I'll try to collect data about league of legend gameplays to analyse it and find the secret to get the victory.
